@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eastvantage/static/css/main.073c9b0a.css",
+    "main.js": "/eastvantage/static/js/main.3590bb62.js",
+    "index.html": "/eastvantage/index.html",
+    "main.073c9b0a.css.map": "/eastvantage/static/css/main.073c9b0a.css.map",
+    "main.3590bb62.js.map": "/eastvantage/static/js/main.3590bb62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3590bb62.js"
+  ]
+}
